@@ -1,11 +1,14 @@
 ![Web and Mobile development](https://github.com/Stephane-AmStrong/Stephane-AmStrong/blob/main/240_F_461098189_05zmHQp8uXyc0RFayBevJEHu0PMj1MvL.jpg)
 
-### Hi there 👋, I'm Stéphane
+## Hi there 👋, I'm Stéphane
 #### Web and Mobile development
 
 I'm Stéphane from Africa, and I do Web and Mobile development. I really enjoy learning languages and frameworks like C#, Kotlin, Asp.Net, and Android native, as well as working remotely. I also enjoy using IT to improve people's lives in general.
 
-Skills: .Net Core / Android Kotlin / JS / HTML / CSS
+## Skills and Experience
+* 🖥 .Net Core
+* 📱 Kotlin Android
+* 💻 HTML, CSS, JS
 
 - 🔭 I’m currently working on https://github.com/Stephane-AmStrong/XXLStores_API 
 - 🌱 I’m currently learning https://docs.microsoft.com/en-us/dotnet/architecture/microservices 
