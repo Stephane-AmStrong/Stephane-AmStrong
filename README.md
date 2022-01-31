@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Stéphane from Africa, and I do Web and Mobile development. I really enjoy learning languages and frameworks like C#, Kotlin, Asp.Net, and Android native, as well as working remotely. I also enjoy using IT to improve people's lives in general.
+
+
+Stéphane from Africa, and I do freelancing on Web and Mobile development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
+
 <!--
 **Stephane-AmStrong/Stephane-AmStrong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
