@@ -26,11 +26,12 @@ https://orageu-aun.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephane-AmStrong)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Stephane-AmStrong&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Stephane-AmStrong&show_icons=true&count_private=true) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Stephane-AmStrong) 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Stephane-AmStrong)   
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Stephane-AmStrong)  
+ 
 
-![Profile views](https://gpvc.arturio.dev/Stephane-AmStrong)
+![Profile views](https://gpvc.arturio.dev/Stephane-AmStrong)  
 
 
 
