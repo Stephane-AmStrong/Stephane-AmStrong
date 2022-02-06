@@ -20,19 +20,20 @@ http://aunadmin-001-site1.dtempurl.com/swagger/index.html
 
 https://orageu-aun.com
 
+
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Stephane-AmStrong)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephane-AmStrong)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Stephane-AmStrong&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Stephane-AmStrong&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Stephane-AmStrong)  
 
-![GitHub metrics](https://metrics.lecoq.io/Stephane-AmStrong)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Stephane-AmStrong)  
 
-![Profile views](https://gpvc.arturio.dev/Stephane-AmStrong)  
+![Profile views](https://gpvc.arturio.dev/Stephane-AmStrong)
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Stephane-AmStrong)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/in/stéphane-adjakotan-1b041a16b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/stephane.adjakotan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/stephane_amstrong/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16149264/stephane-amstrong)  
