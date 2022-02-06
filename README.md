@@ -24,14 +24,13 @@ https://orageu-aun.com
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Stephane-AmStrong)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephane-AmStrong)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Stephane-AmStrong)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Stephane-AmStrong&show_icons=true&count_private=true) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Stephane-AmStrong) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Stephane-AmStrong&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Stephane-AmStrong)  
- 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Stephane-AmStrong) 
 
-![Profile views](https://gpvc.arturio.dev/Stephane-AmStrong)  
+![Profile views](https://gpvc.arturio.dev/Stephane-AmStrong)    
 
 
 
