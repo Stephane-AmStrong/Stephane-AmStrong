@@ -14,7 +14,7 @@ I'm Stéphane from Africa, and I do Web and Mobile development. I really enjoy l
 - 🌱 I’m currently learning https://docs.microsoft.com/en-us/dotnet/architecture/microservices 
 - 📫 How to reach me: https://www.linkedin.com/in/stéphane-adjakotan-1b041a16b 
 
-##Examples of work
+## Examples of work
 
 http://aunadmin-001-site1.dtempurl.com/swagger/index.html
 https://orageu-aun.com
