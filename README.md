@@ -28,9 +28,7 @@ https://orageu-aun.com
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Stephane-AmStrong&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Stephane-AmStrong)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Stephane-AmStrong)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Stephane-AmStrong)   
 
 ![Profile views](https://gpvc.arturio.dev/Stephane-AmStrong)
 
