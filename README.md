@@ -1,4 +1,4 @@
-![Web and Mobile development](https://github.com/Stephane-AmStrong/Stephane-AmStrong/blob/main/240_F_461098189_05zmHQp8uXyc0RFayBevJEHu0PMj1MvL.jpg)
+![Web and Mobile development](https://github.com/Stephane-AmStrong/Stephane-AmStrong/blob/main/StéphaneGerardAdjakotan_Native_Android_Developer_with_Kotlin_MVVM_MVI_Full-Stack_backend_heavy_.Net_Core_Developer_with_CQRS_architecture_MVC_Repository_Pattern_REST_API.png)
 
 ## Hi there 👋, I'm Stéphane
 #### Web and Mobile development
