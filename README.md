@@ -1,4 +1,4 @@
-![Web and Mobile development](https://github.com/Stephane-AmStrong/Stephane-AmStrong/blob/main/Fukkstack development banner - LinkedIn.jpg)
+![Web and Mobile development](https://github.com/Stephane-AmStrong/Stephane-AmStrong/blob/main/FullStack-development-banner-LinkedIn.jpg)
 
 ## Hi there 👋, I'm Stéphane
 #### Web and Mobile development
