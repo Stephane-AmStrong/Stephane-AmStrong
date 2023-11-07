@@ -90,8 +90,8 @@ Cotonou, Benin
 - Well-Deserved Praise on Upwork. ⭐
 
 ## Languages 🌐
-- French: 5 🇫🇷
-- English: 3 🇬🇧
+- French: Fluent
+- English: Professional
 
 ## Education 🎓
 - Professional License in Software Engineering, ENEAM Benin, 2013 -- 2014 📜
