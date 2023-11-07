@@ -1,4 +1,6 @@
-# Stéphane Gerard Adjakotan
+![Web and Mobile development](https://github.com/Stephane-AmStrong/Stephane-AmStrong/blob/main/FullStack-development-banner-LinkedIn.jpg)
+
+# Stéphane G. Adjakotan
 **Full Stack .NET Developer** 💻
 
 ![Profile Photo](Profil_Pro_Small.jpg)
@@ -105,3 +107,19 @@ Cotonou, Benin
 - **Tech Lead Omnilog | Antoine Ferret**
   - TF1 Group
   - [LinkedIn](https://www.linkedin.com/in/antoine-ferret-73236390) 👤
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Stephane-AmStrong)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Stephane-AmStrong) 
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Stephane-AmStrong)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Stephane-AmStrong&show_icons=true&count_private=true)  
+
+![Profile views](https://gpvc.arturio.dev/Stephane-AmStrong)    
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Stephane-AmStrong)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/in/stéphane-adjakotan-1b041a16b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/stephane.adjakotan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/stephane_amstrong/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16149264/stephane-amstrong)  
+
