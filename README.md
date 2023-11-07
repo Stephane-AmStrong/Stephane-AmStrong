@@ -3,8 +3,6 @@
 # Stéphane G. Adjakotan
 **Full Stack .NET Developer** 💻
 
-![Profile Photo](Profil_Pro_Small.jpg)
-
 - **Email:** stephane.adjakotan@gmail.com 📧
 - **Phone:** +33 6 05 54 85 53 ☎️
 - **Location:** Île-de-France, France 🌍
