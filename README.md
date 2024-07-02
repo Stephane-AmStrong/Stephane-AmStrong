@@ -3,6 +3,8 @@
 # Stéphane G. Adjakotan
 ### Full Stack .NET Angular Developer 💻
 
+![Profile Picture](https://github.com/Stephane-AmStrong/Stephane-AmStrong/blob/main/Stef-net.jpg)
+
 - **Location:** Île-de-France, France 🌍
 - **GitHub:** [Stephane-AmStrong](https://github.com/Stephane-AmStrong) 🚀
 - **LinkedIn:** [stephane-g-adjakotan](https://www.linkedin.com/in/stephane-g-adjakotan) 👔
