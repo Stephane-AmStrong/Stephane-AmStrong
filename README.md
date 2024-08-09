@@ -1,4 +1,4 @@
-![Web and Mobile development](https://github.com/Stephane-AmStrong/Stephane-AmStrong/blob/main/Bannier IT Small.png)
+![Web and Mobile development](https://github.com/Stephane-AmStrong/Stephane-AmStrong/blob/main/Bannier_IT_Small.png)
 
 # Stéphane G. Adjakotan
 ### Full Stack .NET Angular Developer 💻
