@@ -1,4 +1,4 @@
-![Web and Mobile development](https://github.com/Stephane-AmStrong/Stephane-AmStrong/blob/main/FullStack-development-banner-LinkedIn.jpg)
+![Web and Mobile development](https://github.com/Stephane-AmStrong/Stephane-AmStrong/blob/main/FullStack-development-banner.png)
 
 # Stéphane G. Adjakotan
 ### Full Stack .NET Angular Developer 💻
