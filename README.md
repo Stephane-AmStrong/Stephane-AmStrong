@@ -20,7 +20,7 @@
 ---
 
 ### Full Stack .NET & Angular Developer @ TF1, Advertising Product Division
-*April 2023 - November 2023 (08 months)* - Boulogne Billancourt, France
+*April 2023 - February 2023 (11 months)* - Boulogne Billancourt, France
 
 - Designed [the Digital Beta tab](https://app.stg.labox.tf1pub.fr/campaigns/advertiser/42167/agency/3389/product/35757/digital-beta?startDate=2023-01-01&endDate=2023-07-31) for App Labox, a platform facilitating the purchase and tracking of TF1 ads.
 - Optimized the performance of APIs and WebApps to ensure a fast and efficient user experience when buying ads.
