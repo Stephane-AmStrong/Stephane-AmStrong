@@ -44,12 +44,6 @@
 
 ---
 
-- Designed [**MyUnlimitedEvent**](https://www.myunlimitedevent.com): A multi-vendor ticketing service for event management in Benin and the surrounding region.
-
-**Technologies:** .Net 5, C# 9, EF Core, Razor Pages, jQuery, Bootstrap 4, CSS 3, X Unit 2., Git, TDD, MVC, MS SQL Server
-
----
-
 - Conceived a point-of-sale (POS) system for the management of the restaurant **O'Grill** located in Ganhi.
 
 **Technologies:** .Net Core 3.1, C# 8, EF Core, PostgreSQL, Kotlin, MVVM, Live Data, Koroutine, Material Design 2, Room Database, Git
