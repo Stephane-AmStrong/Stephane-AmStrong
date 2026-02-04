@@ -1,105 +1,126 @@
 ![Web and Mobile development](https://github.com/Stephane-AmStrong/Stephane-AmStrong/blob/main/Bannier_IT_Small.png)
 
 # Stéphane G. Adjakotan
-### Full Stack .NET Angular Developer 💻
 
-- **Location:** Île-de-France, France 🌍
-- **GitHub:** [Stephane-AmStrong](https://github.com/Stephane-AmStrong) 🚀
-- **LinkedIn:** [stephane-g-adjakotan](https://www.linkedin.com/in/stephane-g-adjakotan) 👔
-- **Facebook:** [stephane.adjakotan](https://www.facebook.com/stephane.adjakotan) 👤
+**Full Stack .NET & React & Angular Developer**
 
-## 🛠️ Experiences
-
-### Full Stack .NET & Angular Developer @ Pluxee, Customer Extranet Redesign
-*March 2024 - Present (04 months)* - Paris, France
-
-- Development and maintenance of web applications enabling customers to manage their employees' restaurant cards.
-
-**Technologies:** .Net 8, C# 12, Angular 16, Angular Material, SCSS, Typescript, X Unit 2.6, Jasmine, Karma, TDD, GitKraken, Git, Jenkins, Jira, Oracle, MongoDB
+📍 Île-de-France, Clamart | 📧 stephane.adjakotan@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/stephane-g-adjakotan) | 💻 [GitHub](https://github.com/Stephane-AmStrong)
 
 ---
 
-### Full Stack .NET & Angular Developer @ TF1, Advertising Product Division
-*April 2023 - February 2023 (11 months)* - Boulogne Billancourt, France
+## 💼 Experience
 
-- Designed [the Digital Beta tab](https://app.stg.labox.tf1pub.fr/campaigns/advertiser/42167/agency/3389/product/35757/digital-beta?startDate=2023-01-01&endDate=2023-07-31) for App Labox, a platform facilitating the purchase and tracking of TF1 ads.
-- Optimized the performance of APIs and WebApps to ensure a fast and efficient user experience when buying ads.
+### Full Stack .NET & Angular Developer @ **Engie**
+**Feb 2025 – Feb 2026 (12 months)** | Defense, France
 
-**Technologies:** .Net 6, C# 10, Angular 15, SCSS, Typescript, X Unit 2.6, Jasmine, Karma, SpecFlow, TDD, DDD, BDD, Docker, Kubernetes, Git, Azure DevOps, CQRS, MS SQL Server, Stored procedures
+**Mission:** Complete overhaul of the monitoring platform from backend to frontend using clean architecture principles with real-time push notifications.
 
----
+**Key Achievements:**
+- Designed and developed scalable REST APIs using .NET 9 Minimal API to manage 107 servers, their alerts, and multi-tenant clients
+- Implemented Server-Sent Events (SSE) for real-time notifications of entity state changes
+- Built a modular and scalable Angular application leveraging Signals and reactive programming
+- Created a real-time dashboard to monitor servers with advanced search forms, filtering, and CRUD operations for business-specific commands
 
-### Full Stack .NET & Angular Developer @ Simple IT
-*June 2016 - April 2023 (6 years, 11 months)* - Cotonou, Benin
-
-- Designed **GesMed-EmagerieMedical** for patient follow-up. This application manages appointment scheduling, medical examination registration, and report archiving. It also includes a module for managing payments and invoices.
-
-**Technologies:** .Net 6, C# 10, EF Core, Angular, Typescript, CSS 3, X Unit 2., Git, Selenium C# 4., Azure, TDD, CQRS, PostgreSQL
+**Tech Stack:** Multi Threaded & Parallel Programming • .NET 9 Minimal API • Angular 20 & Material • Signals • C# • SSE • CQRS • Clean Architecture • MongoDB • FluentValidation
 
 ---
 
-- Designed [**Orageu-AUN**](https://orageu-aun.com): An African digital platform for higher education, bringing together African and Western universities to offer quality training and reduce the need to emigrate for academic reasons.
+### Full Stack .NET & React Developer @ **Pluxee** (Client Extranet)
+**Mar 2024 – Dec 2024 (10 months)** | Paris, France
 
-**Technologies:** .Net 5, C# 9, EF Core, Razor Pages, jQuery, Bootstrap 4, X Unit 2., Git, TDD, MS SQL Server, JavaScript ES6
+**Mission:** Decommissioning of monolith towards a microservices architecture, optimizing scalability and maintainability while ensuring smooth transition without service interruption.
 
----
+**Key Achievements:**
+- Designed and developed decoupled REST APIs for managing restaurant cards
+- Created APIs for importing/exporting Excel files with asynchronous processing
+- Parallelized and optimized processing with asynchronous tasks
+- Developed functional and reusable React components with custom hooks
+- Optimized performance via deferred rendering (React.lazy, Suspense)
 
-- Conceived a point-of-sale (POS) system for the management of the restaurant **O'Grill** located in Ganhi.
-
-**Technologies:** .Net Core 3.1, C# 8, EF Core, PostgreSQL, Kotlin, MVVM, Live Data, Koroutine, Material Design 2, Room Database, Git
-
----
-
-- Conceived an application to manage the inventory and customer portfolio of Fast-Food **Le Mimosa**.
-- Conceived an application to manage the **Eleganss Coiffure** beauty salon.
-
-**Technologies:** .Net 4.6, C# 6, WPF, Razor Pages, ASP MVC, jQuery, Git, MS SQL Server
+**Tech Stack:** .NET 8 • C# 12 • React 18 • TypeScript • EF Core • Multi Threaded & Parallel Programming • PLINQ • TDD • FluentValidation • GitLab Cloud • MongoDB • Oracle • XUnit 2.6 • Testcontainers • Jest • React Testing Library
 
 ---
 
-### Back-End .NET & Android Software Engineer @ OPEN SI
-*August 2015 - April 2016 (09 months)* - Cotonou, Benin
+### Full Stack .NET & Angular Developer @ **TF1** (Advertising Product Department)
+**Apr 2023 – Nov 2023 (8 months)** | Boulogne Billancourt, France
 
-- Contributed to the conception of **E-Conseil**, an Android-based M-File client for the French Presidency's Council of Ministers.
-- Developed the Android application **"Le club de Patrice Talon"** for Benin's 2016 presidential campaign.
+**Mission:** Design of the Digital Beta tab of App Labox, a platform facilitating the purchase and monitoring of TF1 advertisements.
 
-**Technologies:** Java, Git, XML, SQLite, .Net 4.6, C# 6, Java SE, MS SQL Server
+**Key Achievements:**
+- Created RESTful API Endpoints in CQRS architecture
+- Built the digital beta tab dashboard from scratch using generic Angular components
+- Implemented Unit tests with XUnit and integration tests with SpecFlow (BDD)
+- Created and optimized parameterized stored procedures for KPI calculation
 
----
-
-### Back-End .NET Developer @ WMT GROUP
-*January 2013 - January 2015 (2 years, 01 months)* - Cotonou, Benin
-
-- Designed software for the management of a hotel.
-- Created school management software.
-- Assisted in developing social dialogue software for the Primature.
-
-**Technologies:** .Net 4.5, C# 5, Git, MS SQL Server
+**Tech Stack:** .NET 6 • C# 10 • Angular 15 • TypeScript • Async & Parallel Programming • PLINQ • TDD • Azure DevOps • Docker • SQL Server • BDD • SpecFlow • XUnit 2.6 • Jasmine & Karma
 
 ---
 
-### .Net Developer & Computer Maintenance Junior @ Ministry of Infrastructure and Transport of Benin
-*July 2012 - July 2013 (1 year, 01 month)* - Cotonou, Benin
+### Full Stack .NET & Angular Developer @ **H24 Consulting France**
+**Feb 2019 – Mar 2023 (4 years 2 months)**
 
-- Developed construction site monitoring and evaluation software for Benin's Ministry of Infrastructure and Transport.
-- Troubleshooting, repair, replacement, and installation of operating systems, software of all kinds, and all computer peripherals.
+**Mission:** Design of **GesMed-EmagerieMedical** for patient follow-up. This application manages appointment scheduling, medical examination recording, report archiving, and payment/invoice management.
 
-**Technologies:** .Net 4.5, C# 5, WinForm, MS SQL Server, Stored procedures, Git, Windows 7, Ubuntu 12 LTS
+**Key Achievements:**
+- Built RESTful API from scratch in CQRS architecture
+- Created Angular SPA with generic and reusable components
+- Designed UML class diagrams to represent data models
+- Created use case diagrams to capture functional requirements
+
+**Tech Stack:** .NET 6 • C# 10 • Angular • TypeScript • Parallel Programming • EF Core • TDD • Testcontainers • Docker • Azure Cloud • CQRS • PostgreSQL • Selenium C# 4 • SOLID Principles • CI/CD Pipeline
+
+---
+
+### Full Stack .NET & React.js Developer @ **Simple IT** (Software Editor)
+**Jan 2015 – Jan 2019 (4 years 1 month)**
+
+**Mission:** Design of **Orageu-AUN** - African digital platform for higher education, bringing together African and Western universities to provide quality education.
+
+**Key Achievements:**
+- Built RESTful API from scratch using Onion architecture
+- Created React.js SPA with generic and reusable components
+- Implemented unit and integration tests
+- Designed UML diagrams and use case documentation
+
+**Tech Stack:** .NET 5 • C# 9 • React.js • JavaScript ES6 • EF Core • Async/Await • LINQ • SOLID Principles • Azure Cloud • TDD • CI/CD Pipeline • SQL Server • CSS 3
+
+---
+
+### Junior .NET Developer @ **Ministry of Infrastructure and Transport of Benin**
+**Jul 2012 – Dec 2014 (2 years 6 months)** | Cotonou, Benin
+
+**Mission:** Development of software for monitoring and evaluation of construction sites.
+
+**Key Achievements:**
+- Created desktop application from scratch
+- Designed and optimized stored procedures
+- Implemented data integrity constraints
+- Created UML and use case diagrams
+
+**Tech Stack:** .NET 4.5 • C# 5 • WinForm • SQL Server • SQL • Git
+
+---
 
 ## 🎓 Education
 
-- **Bachelor's degree in software engineering** @ ENEAM Benin (2013 - 2014) 📜
-- **Higher National Diploma in Computer Science Management** @ ESSF (2012 - 2013) 📚
-- **DUEL II English** @ UAC/FLASH (2009 - 2010) 📖
+- **Professional License in Software Engineering** | ENEAM Benin (2013-2014)
+- **Advanced Technician Certificate in IT Management** | ESSF (2012-2013)
+- **English Diploma Level II** | UAC/FLASH (2009-2010)
 
-## 🧘 Life Philosophy
-> "Discipline is the bridge between goals and accomplishment." -- Jim Rohn
+---
 
-## 📇 References
+## 🗣️ Languages
 
-- **Engineering manager | Hedi Hadroug, Mohamed** @ Pluxee Group - mohamed.hedihadroug.ext@pluxeegroup.com
-- **Product Manager | Swann Boniface** @ TF1 Group - sbonifac@tf1.fr
-- **Talent Acquisition Specialist | Elodie Caloin** @ OMNILOG - elodie.caloin@omnilog.fr
+- **French** ⭐⭐⭐⭐⭐ (Native)
+- **English** ⭐⭐⭐ (Professional Working Proficiency)
+
+---
+
+## 👥 References
+
+- **Gaetan Mallet** | Senior .NET & Angular Developer | TF1 Group | [LinkedIn](https://linkedin.com/in/gaetanmallet)
+- **Swann Boniface** | Product Manager | TF1 Group | [LinkedIn](https://linkedin.com/in/swann-boniface-481b574b)
+- **Elodie Caloin** | Talent Acquisition Specialist | OMNILOG | [LinkedIn](https://linkedin.com/in/elodie-caloin-459bb0122)
 
 
 
