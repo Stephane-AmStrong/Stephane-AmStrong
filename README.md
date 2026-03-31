@@ -225,19 +225,10 @@ Technologies:
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Stephane-AmStrong&show_icons=true&theme=tokyonight"/>
-</p>
-
----
-
-# 🔝 Top Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephane-AmStrong&layout=compact&theme=tokyonight"/>
-</p>
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Stephane-AmStrong&show_icons=true&theme=tokyonight)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Stephane-AmStrong&show_icons=true&theme=tokyonight)  
 
 ---
 
