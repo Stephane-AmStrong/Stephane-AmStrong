@@ -1,7 +1,3 @@
-# Version README GitHub avec animation + diagrammes
-
-<!-- HEADER -->
-
 <h1 align="center">
   Hi 👋, I'm Stéphane G. Adjakotan
 </h1>
