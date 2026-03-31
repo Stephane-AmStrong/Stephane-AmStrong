@@ -1,33 +1,122 @@
-# 👋 Stéphane G. Adjakotan
+# Version README GitHub avec animation + diagrammes
 
-### Senior Full Stack Developer (.NET / React)
+<!-- HEADER -->
 
-📍 Île-de-France, France
-📧 [stephane_amstrong@yahoo.com](mailto:stephane_amstrong@yahoo.com)
-💼 [https://linkedin.com/in/stephane-g-adjakotan](https://linkedin.com/in/stephane-g-adjakotan)
-💻 [https://github.com/Stephane-AmStrong](https://github.com/Stephane-AmStrong)
+<h1 align="center">
+  Hi 👋, I'm Stéphane G. Adjakotan
+</h1>
+
+<h3 align="center">
+Senior Full Stack Developer (.NET • React • Distributed Systems)
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=.NET+Backend+Engineer;React+Frontend+Developer;Clean+Architecture+Advocate;Parallel+Programming+Specialist;CQRS+%26+Distributed+Systems;10%2B+Years+Experience&center=true&width=700&height=45">
+</p>
+
+<p align="center">
+  📍 Île-de-France, France  
+  <br>
+  💼 <a href="https://linkedin.com/in/stephane-g-adjakotan">LinkedIn</a>  
+  💻 <a href="https://github.com/Stephane-AmStrong">GitHub</a>  
+</p>
 
 ---
 
 # 🚀 About Me
 
-Senior **Full Stack Developer specialized in .NET and React**, with **12+ years of experience building enterprise-grade systems**.
+Senior **Full Stack Developer (.NET / React)** with **10+ years of experience building high-performance enterprise platforms**.
 
-I focus on designing **scalable, high-performance distributed systems**, with strong expertise in:
+I specialize in:
 
-* ⚡ High performance backend systems
-* 🧠 Clean Architecture / CQRS / DDD
-* 🔄 Parallel & asynchronous processing
-* 📡 Real-time event-driven architectures
-* 🧪 Test-driven development
+- High performance backend systems
+- Clean Architecture / CQRS
+- Parallel & asynchronous processing
+- Real-time event-driven architectures
+- Scalable distributed systems
 
-Industries I've worked in:
+Industries:
 
-* Energy trading
-* Financial platforms
-* Advertising tech
-* Healthcare systems
-* Education platforms
+- Energy trading
+- FinTech platforms
+- Advertising tech
+- Healthcare systems
+- Education platforms
+
+---
+
+# 🧠 Architecture Expertise
+
+```text
+Microservices
+Event Driven Architecture
+CQRS
+Clean Architecture
+Onion Architecture
+High Throughput Processing
+Parallel Programming
+Real-Time Systems
+````
+
+---
+
+# 🏗 Example Architecture
+
+```mermaid
+flowchart LR
+
+Client[React Frontend]
+
+API[.NET Minimal API]
+
+CQRS[Application Layer CQRS]
+
+Domain[Domain Layer]
+
+DB[(PostgreSQL)]
+
+Events[Domain Events]
+
+SSE[Real Time SSE Stream]
+
+Client --> API
+API --> CQRS
+CQRS --> Domain
+Domain --> DB
+Domain --> Events
+Events --> SSE
+SSE --> Client
+```
+
+Example architecture used in **ENGIE monitoring platform**.
+
+---
+
+# ⚡ High Throughput Processing Pipeline
+
+```mermaid
+flowchart LR
+
+Upload[File Upload]
+
+Stream[Streaming API]
+
+Validate[Validation Layer]
+
+Pipeline[TPL Dataflow Pipeline]
+
+Workers[Parallel Workers]
+
+Database[(Database)]
+
+Upload --> Stream
+Stream --> Validate
+Validate --> Pipeline
+Pipeline --> Workers
+Workers --> Database
+```
+
+Architecture used for **financial invoice processing at Pluxee**.
 
 ---
 
@@ -37,224 +126,129 @@ Industries I've worked in:
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp)
-![Minimal API](https://img.shields.io/badge/.NET-MinimalAPI-blue?style=for-the-badge)
 ![CQRS](https://img.shields.io/badge/CQRS-Architecture-purple?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-Design-green?style=for-the-badge)
 
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
 
 ### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver)
 
 ### DevOps
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
-![CI/CD](https://img.shields.io/badge/CI/CD-Pipelines-orange?style=for-the-badge)
 
 ---
 
 # 💼 Professional Experience
 
-## 🟣 ENGIE — Energy Trading Monitoring Platform
+## ENGIE — Energy Trading Monitoring Platform
 
-**Full Stack .NET & React Developer**
-📍 La Défense — 2025 → 2026
-
-Redesign of an infrastructure monitoring platform supervising **100+ energy trading servers**.
+Full redesign of a **100+ servers monitoring system**.
 
 Key achievements:
 
-* Backend redesign using **.NET 9 Minimal APIs**
-* Implementation of **CQRS architecture**
-* Replacement of SQL polling with **Server-Sent Events**
-* **53–68% performance improvement** measured with BenchmarkDotNet
-* React frontend using **feature-based architecture**
-
-Stack:
-
-```
-.NET 9 • React • TypeScript • SSE
-PostgreSQL • MongoDB • Azure
-RTK Query • BenchmarkDotNet
-```
+* .NET 9 Minimal API backend
+* CQRS architecture
+* Real-time updates using SSE
+* 53–68% performance improvement
+* React feature-based architecture
 
 ---
 
-## 🟣 Pluxee — Client Financial Extranet
+## Pluxee — Financial Microservices Platform
 
-**Full Stack .NET & React Developer**
-📍 Paris — 2024
-
-Migration of **monolithic billing system → microservices architecture**.
-
-Key contributions:
-
-* Design of **high throughput pipelines using TPL Dataflow**
-* Streaming APIs for **large file ingestion**
-* Parallel processing with **PLINQ**
-* Secure CSV/Excel imports
-* React interface for business automation
-
-Stack:
-
-```
-.NET 8 • React • TypeScript
-TPL Dataflow • PLINQ
-MongoDB • Oracle
-Testcontainers • EF Core
-```
-
----
-
-## 🟣 TF1 — Advertising Product Department
-
-**Full Stack .NET & Angular Developer**
-📍 Boulogne-Billancourt — 2023
-
-Development of the **Digital Beta module** inside **App Labox**, TF1’s advertising campaign platform.
+Migration of billing system **monolith → microservices**.
 
 Highlights:
 
-* Angular frontend implementation
-* Parallel backend processing
-* TDD across frontend & backend
-* Azure DevOps CI/CD pipelines
-* Dockerized deployment
-
-Stack:
-
-```
-.NET 6 • Angular 17
-Azure • Azure DevOps
-SQL Server • SpecFlow
-Docker
-```
+* TPL Dataflow pipelines
+* Streaming file ingestion
+* Parallel invoice processing
+* React automation tools
 
 ---
 
-## 🟣 H24 Consulting France
+## TF1 — Advertising Campaign Platform
 
-**Full Stack .NET & React Developer**
-📅 2019 → 2023
+Development of **Digital Beta module** inside TF1 App Labox.
 
-Development of **GesMed-MedicalImaging**, a complete radiology patient management system.
+Highlights:
 
-System capabilities:
+* Angular frontend
+* Parallel backend execution
+* Azure DevOps CI/CD
 
-* Patient records
+---
+
+## H24 Consulting
+
+Development of **GesMed Medical Imaging Platform**:
+
+* Patient management
 * Appointment scheduling
-* Examination reports
+* Medical reporting
 * Billing workflows
-* Role-based access control
 
-Technical highlights:
+Architecture:
 
-* **Onion Architecture + CQRS**
-* JWT authentication
-* Parallel processing of medical workflows
-* Dockerized CI/CD pipelines
-* React frontend with RTK Query
-
-Stack:
-
-```
-.NET 6 • React • TypeScript
-PostgreSQL • EF Core
-Docker • Azure
-TPL • PLINQ
-```
+* CQRS
+* Onion architecture
+* Dockerized CI/CD
 
 ---
 
-## 🟣 Simple IT — Software Publisher
+## Simple IT — Education Platform
 
-**Full Stack .NET & React Developer**
-📅 2015 → 2019
+Development of **Orageu-AUN**, connecting African and international universities.
 
-Development of **Orageu-AUN**, a digital education platform connecting African and international universities.
-
-Key contributions:
+Key features:
 
 * Multi-tenant architecture
-* University & program management APIs
-* React frontend platform
-* Asynchronous backend processing
-
-Stack:
-
-```
-.NET • React • SQL Server
-Azure • EF Core
-Async/Await • TPL
-```
+* Academic program management
+* React portal for students
 
 ---
 
-## 🟣 Ministry of Infrastructure & Transport — Benin
+## Ministry of Infrastructure — Benin
 
-**Junior .NET Developer**
-📅 2012 → 2014
+Development of **construction project monitoring software**.
 
-Development of a **construction project monitoring system**.
+Technologies:
 
-Responsibilities:
-
-* WinForms application development
-* SQL Server stored procedures
-* UML modeling and database design
-* Technical documentation
-
-Stack:
-
-```
-.NET Framework • WinForms
-SQL Server • Git
-```
-
----
-
-# 🎓 Education
-
-**Professional Bachelor's Degree — Software Engineering**
-ENEAM, Benin
-
-**Higher Technician Diploma — IT Management**
-ESSF
-
-**DUEL II English**
-UAC / FLASH
+* .NET WinForms
+* SQL Server
+* UML modeling
 
 ---
 
 # 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Stephane-AmStrong\&show_icons=true\&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Stephane-AmStrong&show_icons=true&theme=tokyonight"/>
+</p>
 
 ---
 
 # 🔝 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephane-AmStrong\&layout=compact\&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephane-AmStrong&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-# 🌍 Languages
+# 🤝 Connect With Me
 
-🇫🇷 French — Native
-🇬🇧 English — Professional
-
----
-
-# 🤝 Let's Connect
-
-💼 LinkedIn
+LinkedIn
 [https://linkedin.com/in/stephane-g-adjakotan](https://linkedin.com/in/stephane-g-adjakotan)
 
-💻 GitHub
+GitHub
 [https://github.com/Stephane-AmStrong](https://github.com/Stephane-AmStrong)
