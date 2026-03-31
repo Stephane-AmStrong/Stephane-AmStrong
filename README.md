@@ -21,7 +21,7 @@ Senior Full Stack Developer (.NET • React • Distributed Systems)
 
 # 🚀 About Me
 
-Senior **Full Stack Developer (.NET / React)** with **10+ years of experience building high-performance enterprise platforms**.
+Senior **Full Stack Developer (.NET / React)** with **12+ years of experience building high-performance enterprise platforms**.
 
 I specialize in:
 
